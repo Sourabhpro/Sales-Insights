@@ -12,21 +12,12 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 
 AIMS Grid
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
-
+![AIMS](https://github.com/Sourabhpro/Sales-Insights/assets/148372308/c19bb7e1-bc24-42ae-8bc7-9b56264f18f4)
 
 
 Steps Followed in this project
-Performed a High level analysis of data in SQL to get better understanding over the data.
-Connected the SQL data set to PowerBI.
-Performed ETL and data cleaning on the imported data.
-In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-Created measure for needs and used them for creating visuals in PowerBi.
-After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
-Final result
-Initial Dashboard
-
-
-Updated Dashboard
-
-
-Interactive dashboard
+- Performed a prilimanry analysis of data in SQL to get better understanding and then connected SQL dataset to PowerBI.
+- Performed ETL and data cleaning on the imported data.
+- Currency Column had inconsistenties hence performed currency conversion to single currency for relavent market.
+- Created measure for needs and used them for creating visuals in PowerBi.
+- created an initial report and made changes based on feedback recieved.
