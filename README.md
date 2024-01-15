@@ -16,7 +16,7 @@ By using the AIMS grid project management tool, we made sure what are the purpos
 ![AIMS](https://github.com/Sourabhpro/Sales-Insights/assets/148372308/c19bb7e1-bc24-42ae-8bc7-9b56264f18f4)
 
 
-###Steps Followed in this project:
+### Steps Followed in this project:
 - Performed a prilimanry analysis of data in SQL to get better understanding and then connected SQL dataset to PowerBI.
 - Performed ETL and data cleaning on the imported data.
 - Currency Column had inconsistenties hence performed currency conversion to single currency for relavent market.
