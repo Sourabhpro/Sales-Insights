@@ -17,13 +17,13 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 
     `SELECT count(*) FROM customers;`
 
-1. Show transactions for Chennai market (market code for chennai is Mark001
+1. Show transactions for Hyderabad market (market code for Hyderabad is Mark014)
 
-    `SELECT * FROM transactions where market_code='Mark001';`
+    `SELECT * FROM transactions where market_code='Mark014';`
 
-1. Show distrinct product codes that were sold in chennai
+1. Show distinct product codes that were sold in Hyderabad
 
-    `SELECT distinct product_code FROM transactions where market_code='Mark001';`
+    `SELECT distinct product_code FROM transactions where market_code='Mark014';`
 
 1. Show transactions where currency is US dollars
 
